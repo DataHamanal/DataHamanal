@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I like sloppy joes!
 -->
 My Certicates of completion
+
 ![6](https://github.com/user-attachments/assets/bd23f2d3-98e9-45bc-b43f-6531ed8fc433)
 ![6-1](https://github.com/user-attachments/assets/c6b60013-74eb-4124-910b-b601d8f4bf1e)
 
